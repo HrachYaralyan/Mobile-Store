@@ -1,0 +1,12 @@
+.toDoFooter{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(255, 255, 255, 0.219);
+  width: 370px;
+}
+@media screen and (max-width:400px) {
+  .toDoFooter{
+
+    width: 340px;
+  }
+}

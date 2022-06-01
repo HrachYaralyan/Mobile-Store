@@ -1,0 +1,83 @@
+[
+  {
+      "id":1,
+      "picurl":"https://dealplanet.sk/wp-content/uploads/2021/03/xiaomi-mi-11-2.png",
+      "name":"Xiaomi",
+      "model":"Mi 11 Ultra 12/256 Gb",
+      "price":1200,
+      "procent":10,
+      "toHave":"Yes",
+      "itemcount": 0
+
+  },
+  {
+      "id":2,
+      "picurl":"https://cdn.mos.cms.futurecdn.net/beZQdn5vQNKDidxj364ciA.png",
+      "name":"Tesla",
+      "model":"P",
+      "price":0,
+      "procent":0,
+      "toHave":"no",
+      "itemcount": 0
+  },
+  {
+      "id":3,
+      "picurl":"https://www.inside-digital.de/img/galaxy-z-flip-5g-1200x900.jpg",
+      "name":"Samsung",
+      "model":"Galaxy Z Fold 3",
+      "price":899,
+      "procent":40,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":4,
+      "picurl":"https://en.letsgodigital.org/uploads/2020/11/nokia-feature-phone.jpg",
+      "name":"Nokia",
+      "model":"6300",
+      "price":37,
+      "procent":5,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":5,
+      "picurl":"https://busell.ru/pic/big/1065609.jpg",
+      "name":"Simens",
+      "model":"A52",
+      "price":0,
+      "procent":0,
+      "toHave":"no",
+      "itemcount": 0
+  },
+  {
+      "id":6,
+      "picurl":"https://4dim.ru/wp-content/uploads/plakaty-realme-gt-5g-s-pervogo-vzglyada-pokazyvayut-trojnye-kamery-na-64-mp-i-razem-dlya-naushnikov-35-mm_60332350a3e52-scaled.jpeg",
+      "name":"Realme",
+      "model":"GT 5 Pro",
+      "price":420,
+      "procent":28,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":7,
+      "picurl":"https://www.fredzone.org/wp-content/uploads/2022/02/k6s-108MP-scaled.jpg",
+      "name":"Xiaomi",
+      "model":"Redmi Note 11 Pro",
+      "price":250,
+      "procent":20,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":8,
+      "picurl":"https://ugra.ru/pics-www.mobilephone.co.uk/wp-content/uploads/2017/03/motorola-v3i.jpg",
+      "name":"Motorola",
+      "model":"Razr v3",
+      "price":0,
+      "procent":0,
+      "toHave":"comming soon",
+      "itemcount": 0
+  }
+]

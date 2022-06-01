@@ -1,0 +1,17 @@
+.toDoMainItem{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(255, 255, 255, 0.219);
+  width: 370px;
+}
+.toDoMainItem > p{
+  max-width: 250px;
+  overflow: hidden;
+}
+
+@media screen and (max-width:400px) {
+  .toDoMainItem{
+
+    width: 340px;
+  }
+}

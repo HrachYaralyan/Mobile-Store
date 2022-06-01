@@ -1,0 +1,44 @@
+[
+  {
+      "id":1,
+      "picurl":"https://www.technodom.kz/media/catalog/product/b/6/b6a117f0b57e319a1e4325c23f15008c826b69a5_178302_5hut.jpg",
+      "name":"Iphone",
+      "model":"Iphone 13 pro",
+      "price":1800,
+      "procent":10,
+      "toHave":"Yes",
+      "itemcount": 0
+
+  },
+  {
+      "id":2,
+      "picurl":"https://tehnoteca.ru/img/1995/1994786/xiaomi_mi_11_ultra_3.jpg",
+      "name":"Xiaomi",
+      "model":"Xiaomi mi 11 ultra",
+      "price":1300,
+      "procent":0,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":3,
+      "picurl":"https://unite4buy.ru/media/images/2021/04/12/s22-ultra-1.jpg",
+      "name":"Samsung",
+      "model":"Samsung galaxy s22 ultra",
+      "price":1599,
+      "procent":40,
+      "toHave":"yes",
+      "itemcount": 0
+  },
+  {
+      "id":4,
+      "picurl":"https://images-na.ssl-images-amazon.com/images/I/71G02ydOTkL.jpg",
+      "name":"Huawei",
+      "model":"huawei p 30 pro",
+      "price":876,
+      "procent":5,
+      "toHave":"yes",
+      "itemcount": 0
+  }
+  
+]

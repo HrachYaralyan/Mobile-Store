@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Rubik+Beastly&display=swap');
+
+
+.font{
+  font-family: 'Dongle', sans-serif;
+  font-family: 'Rubik Beastly', cursive;
+  margin: 20px 0;
+}
+
+.parent{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+
+.cub{
+  margin-top: 50px;
+  width: 250px;
+  margin: 5px;
+  border: 2px solid rgb(110, 110, 110);
+  border-radius: 15px;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.116);
+}
+
+.pdiv{
+  // width: 246px;
+  // height: 150px;
+  // cursor: pointer;
+  img{
+    width: 100%;
+    height: 300px;
+    transition: 1s;
+    cursor: pointer;
+  }
+}
+
+.h3{
+  text-align: center;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.li {
+  transition: 1s;
+}
+
+.cub:hover img {
+   transform: scale(.8);
+   border-radius: 10px;
+}
+.cub:hover .h3 {
+  color: rgb(235, 8, 8);
+
+  transform: scale(1.2);
+  
+}
+
+.cub:hover li {
+  color: rgb(8, 31, 235);
+  margin-left: 10px;
+}
+.now{
+  background: rgba(5, 248, 38, 0.719);
+  padding: 3px;
+}
+.homeDiv{
+  margin-bottom: 10px;
+}

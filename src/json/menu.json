@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "menu1":"Home",
+      "menu2":"Top Models",
+      "menu3":"Dropdown",
+      "menu4":"To Do List",
+      "menu5":"Redux Ex",
+      "menu6":"Somethig else",
+      "menu7":"Steve Jobs"
+    }
+  ],
+  [
+    {
+      "menu1":"Գլխավոր",
+      "menu2":"Թոփ Մոդելներ",
+      "menu3":"Բացվող",
+      "menu4":"Գործերի ցուցակ",
+      "menu5":"Redux օրինակ",
+      "menu6":"այլ բան",
+      "menu7":"Սթիվ Ջոբս"
+    }
+  ],
+  [
+    {
+      "menu1":"Главная",
+      "menu2":"Лучшие модели",
+      "menu3":"Открытие",
+      "menu4":"Список дел",
+      "menu5":"Redux пример",
+      "menu6":"что-то другое",
+      "menu7":"Стив Джобс"
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+.changePrice{
+  padding: 5px;
+  background:green;
+  color: aliceblue;
+  border-radius: 5px;
+  text-align: center;
+}
+.cashback{
+  padding: 5px;
+  background:rgb(12, 25, 197);
+  color: aliceblue;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.mycenter{
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+}
+.mycenter button{
+  margin-left: 5px;
+  margin-right: 5px;
+}

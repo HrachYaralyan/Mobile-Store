@@ -1,0 +1,111 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .5s;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modalContent {
+  width: 450px;
+  height: 450px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: white;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  justify-content: center;
+
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+.input {
+  width: 270px;
+  height: 40px;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #000000;
+  background-color: rgba(138, 134, 134, 0.5);
+}
+.input::-webkit-input-placeholder {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600;
+}
+.input:first-child {
+  margin-right: 20px;
+}
+.check {
+  margin-top: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.check>input {
+  margin-top: 8px;
+  margin-right: 5px;
+  width: 17px;
+  height: 17px;
+}
+.check>p {
+  font-size: 18px;
+  color: #23197b;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+.mainbtn {
+  display: flex;
+  justify-content:center;
+  margin-top: 40px;
+}
+.signinbtn {
+  width: 120px;
+  height: 40px;
+
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  border: 1px solid #b0b0b8;
+  background-color:#0011ff;
+  color: rgb(255, 255, 255);
+  transition: 1s;
+
+}
+.signinbtn:hover {
+  border: none;
+  background-color: #ffffff;
+  color: rgb(0, 47, 255);
+}
+.clearbtn {
+  width: 120px;
+  height: 40px;
+  font-size: 19px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  border: 3px solid #7B191E;
+  background-color: transparent;
+  color: black;
+}
+.clearbtn:hover {
+  border: none;
+  background-color: #7B191E;
+}

@@ -1,0 +1,86 @@
+.jobs{background: url(https://assets.entrepreneur.com/content/3x2/2000/20180809184205-GettyImages-101693461-crop.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: aliceblue;
+  padding: 50px;
+
+
+}
+
+.big{
+  display: flex;
+  transition: 1s;
+ border-radius: 10px;
+}
+.itemDiv{
+  width: 500px;
+  border: 3px solid rgb(255, 255, 255);
+  margin: 10px;
+  transition: 1s;
+  padding: 5px;
+  border-radius: 10px;
+}
+.icon{
+  font-size: 20px;
+  color: rgb(255, 254, 254);
+  padding: 5px;
+  transition: 1s;
+}
+.h1{
+ margin-right: 23px;
+}
+
+@media screen and(max-width:1000px){
+  .jobs{background: url(https://coolwallpapers.me/picsup/5833636-apple-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    color: aliceblue;
+    padding: 50px;
+
+  }
+  .itemDiv{
+ 
+    width: 400px;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 5px;
+
+  }
+  .big{
+    display: flex;
+    transition: 1s;
+    background-color: rgba(0, 0, 0, 0.589);
+  }
+  .h1{
+    margin-right: 17px;
+    font-size: 16px;
+   }
+}
+
+@media screen and(max-width:500px){
+
+  .big{
+    display: flex;
+    transition: 1s;
+   border-radius: 15px;
+  }
+  .itemDiv{
+    width: 330px;
+    border: 3px solid rgb(255, 255, 255);
+    margin: 2px;
+    transition: 1s;
+    padding: 5px;
+    border-radius: 10px;
+  }
+}

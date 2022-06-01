@@ -1,0 +1,25 @@
+.toDoBody{
+  background:url("https://www.govp2p.com.au/wp-content/uploads/2019/09/Business_Ideas_002.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  padding-top: 50px;
+
+}
+.toDoBody h1{
+  background: rgba(20, 20, 20, 0.671);
+  padding: 5px;
+}
+.toDoBig{
+max-width: 400px;
+border-radius: 10px;
+margin: auto;
+padding: 10px;
+background-color: rgba(0, 0, 0, 0.863);
+color: aliceblue;
+}
+
+.todobtn{
+  display: block;
+}

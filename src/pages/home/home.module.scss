@@ -1,0 +1,38 @@
+.hl{
+  text-align: center;
+}
+
+.img{
+  width: 100%;
+  height: 100%;
+}
+
+.myClasImg img{
+  height: 200px;
+}
+
+.blur{
+  width: 100%;
+  height: 30px;
+  background: rgba(22, 63, 243, 0.822);
+color: aliceblue;
+  filter: blur(0.8px);
+  -webkit-filter: blur(1px);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.delivery{
+  video{
+    width: 100%;
+
+  }
+}
+
+
+@media screen and(max-width:550px) {
+  .myClasImg img{
+    height: 100px;
+  }
+}
